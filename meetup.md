@@ -21,8 +21,8 @@ Aquí trobareu diferents grups de meetup, bàsicament de Barcelona, però també
 
 ## Low Code / No Code
 
--[FlutterFlow](https://www.meetup.com/ffdg_barcelona)
--[WebFlow](https://www.meetup.com/barcelona-webflow-club)
+- [FlutterFlow](https://www.meetup.com/ffdg_barcelona)
+- [WebFlow](https://www.meetup.com/barcelona-webflow-club)
 
 ## .NET
 
