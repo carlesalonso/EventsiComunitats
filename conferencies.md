@@ -19,13 +19,13 @@ Aquí teniu un recopilatori d'algunes de les conferències i jornades més inter
 ## Desenvolupament
 
 - [JS Conf](https://www.jsconf.es) - Madrid
-- [Dev BCN](https://devbcn.es/) - Barcelona
+- [Dev BCN](https://www.devbcn.com) - Barcelona
 - [NetCoreConf](https://netcoreconf.com/) - Barcelona i altres ciutats
 
 ## Temàtiques diverses
 
 - [T3chFest](https://t3chfest.uc3m.es/) - Madrid
-- [CommitConf](https://commitconf.com/) - Madrid
+- [CommitConf](https://2025.commit-conf.com) - Madrid
 
 ## Conferències internacionals (online)
 
@@ -33,4 +33,4 @@ Aquí teniu un recopilatori d'algunes de les conferències i jornades més inter
 - [Google I/O](https://events.google.com/io/) - Online
 - [AWS re:Invent](https://reinvent.awsevents.com/) - Online
 - [GitHub Universe](https://githubuniverse.com/) - Online
-- [DockersCon](https://www.docker.com/dockercon/) - Online
+- [DockerCon](https://www.docker.com/dockercon/) - Online
