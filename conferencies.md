@@ -22,6 +22,11 @@ Aquí teniu un recopilatori d'algunes de les conferències i jornades més inter
 - [Dev BCN](https://www.devbcn.com) - Barcelona
 - [NetCoreConf](https://netcoreconf.com/) - Barcelona i altres ciutats
 
+## Dades i Bussiness Platform
+
+- [datadaX Summit](https://datadaxsummit.com) - Madrid
+- [CollabDay](https://www.collabdays.org/2025-madrid/) - Madrid
+
 ## Temàtiques diverses
 
 - [T3chFest](https://t3chfest.uc3m.es/) - Madrid
