@@ -8,12 +8,10 @@ Aquí teniu disponible una relació de conferències tècniques i de grups de me
 
 ## Propers events destacats
 
-- 10 de maig [Global Azure 2025](https://globalazure.es/) - Madrid
-- 23 de maig [datadaX Summit 2025](https://datadaxsummit.com) - Madrid
-- 25 de maig [Google Cloud Summit 2025](https://cloudonair.withgoogle.com/events/google-cloud-summit-madrid-2025) - Madrid
 - 5 de juny [CollabDay 2025](https://www.collabdays.org/2025-madrid/) - Madrid
 - 8-10 de juny [devbcn](https://www.devbcn.com) - L'Hospitalet de Llobregat
 - 11 de juny [AWS Summit 2025](https://aws.amazon.com/es/events/summits/madrid/) - Madrid
+- 14 de juny [Azure Tour 2025](https://www.eventbrite.es/e/entradas-azure-tour-2025-en-barcelona-1349795056349) - Barcelona
 
 ## [Conferències](conferencies.md)
 
@@ -21,4 +19,4 @@ Aquí teniu disponible una relació de conferències tècniques i de grups de me
 
 Contacte: <carlos.martinez@mataro.epiaedu.cat>
 
-Darrera actualització: 24/04/2025
+Darrera actualització: 26/05/2025
