@@ -15,11 +15,10 @@ Aquí teniu un recopilatori d'algunes de les conferències i jornades més inter
 - [Global Azure](https://globalazure.es/) - Madrid, Barcelona
 - [AgentCamp Madrid](https://globalai.community/agentcamp/madrid/) - Madrid
 - [AgentCamp Madrid](https://globalai.community/agentcamp/barcelona/) - Barcelona
-<!- - [Google Cloud Summit](https://cloudonair.withgoogle.com/events/google-cloud-summit-madrid-2025) - Madrid ->
 
 ## Desenvolupament
 
-- [Codemotion](ttps://conferences.codemotion.com/madrid) . Madrid
+- [Codemotion](https://conferences.codemotion.com/madrid) . Madrid
 - [JS Conf](https://www.jsconf.es) - Madrid
 - [Dev BCN](https://www.devbcn.com) - Barcelona
 - [NetCoreConf](https://netcoreconf.com/) - Barcelona i altres ciutats
