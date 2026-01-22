@@ -8,10 +8,10 @@ Aquí teniu disponible una relació de conferències tècniques i de grups de me
 
 ## Propers events destacats
 
-- 5 de juny [CollabDay 2025](https://www.collabdays.org/2025-madrid/) - Madrid
-- 8-10 de juny [devbcn](https://www.devbcn.com) - L'Hospitalet de Llobregat
-- 11 de juny [AWS Summit 2025](https://aws.amazon.com/es/events/summits/madrid/) - Madrid
-- 14 de juny [Azure Tour 2025](https://www.eventbrite.es/e/entradas-azure-tour-2025-en-barcelona-1349795056349) - Barcelona
+- AgentCamp Madrid: 28 de febrer
+- T3chfest Madrid: 12 i 13 de marḉ
+- AgentCamp Barcelona: 14 de març
+- Codemotion Madrid: 20-21 d'abril
 
 ## [Conferències](conferencies.md)
 
