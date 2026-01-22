@@ -11,7 +11,7 @@ Aquí teniu un recopilatori d'algunes de les conferències i jornades més inter
 
 ## Cloud: Azure, AWS, Google Cloud
 
-- [AWS Summit]([https://www.ifema.es/aws-summit](https://aws.amazon.com/es/events/summits/madrid/) - Madrid
+- [AWS Summit](https://aws.amazon.com/es/events/summits/madrid/) - Madrid
 - [Global Azure](https://globalazure.es/) - Madrid, Barcelona
 - [AgentCamp Madrid](https://globalai.community/agentcamp/madrid/) - Madrid
 - [AgentCamp Madrid](https://globalai.community/agentcamp/barcelona/) - Barcelona
