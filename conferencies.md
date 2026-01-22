@@ -19,6 +19,7 @@ Aquí teniu un recopilatori d'algunes de les conferències i jornades més inter
 
 ## Desenvolupament
 
+- [Codemotion](ttps://conferences.codemotion.com/madrid) . Madrid
 - [JS Conf](https://www.jsconf.es) - Madrid
 - [Dev BCN](https://www.devbcn.com) - Barcelona
 - [NetCoreConf](https://netcoreconf.com/) - Barcelona i altres ciutats
