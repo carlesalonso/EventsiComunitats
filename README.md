@@ -19,4 +19,4 @@ Aquí teniu disponible una relació de conferències tècniques i de grups de me
 
 Contacte: <carlos.martinez@mataro.epiaedu.cat>
 
-Darrera actualització: 26/05/2025
+Darrera actualització: 23/01/2026
