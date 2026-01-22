@@ -9,7 +9,7 @@ Aquí teniu disponible una relació de conferències tècniques i de grups de me
 ## Propers events destacats
 
 - AgentCamp Madrid: 28 de febrer
-- T3chfest Madrid: 12 i 13 de marḉ
+- T3chfest Madrid: 12 i 13 de març
 - AgentCamp Barcelona: 14 de març
 - Codemotion Madrid: 20-21 d'abril
 
