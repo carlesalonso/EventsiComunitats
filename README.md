@@ -16,7 +16,11 @@ Aquí teniu disponible una relació de conferències tècniques i de grups de me
 
 ## [Conferències](conferencies.md)
 
+Conferències i jornades agrupades per temàtica. S'inclouen tant les que es fan a Barcelona com algunes de les destacades que es fan a Madrid.
+
 ## [Grups meetup](meetup.md)
+
+Selecció de grups temàtics a Meetup de la zona de Barcelona i rodalies que organitzen sessions i xerrades
 
 Contacte: <carlos.martinez@mataro.epiaedu.cat>
 
