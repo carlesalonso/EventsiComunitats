@@ -8,6 +8,7 @@ Aquí teniu disponible una relació de conferències tècniques i de grups de me
 
 ## Propers events destacats ![New](https://img.shields.io/badge/SOON-FCC624?style=for-the-badge&logo=SOON&logoColor=black)
 
+- Global PowerPlatform Bootcamp Barcelona: 21 de febrer
 - AgentCamp Madrid: 28 de febrer
 - T3chfest Madrid: 12 i 13 de març
 - JSConf Espanya: 14 de març
