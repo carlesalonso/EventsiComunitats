@@ -22,17 +22,18 @@ Aquí teniu un recopilatori d'algunes de les conferències i jornades més inter
 - [JS Conf](https://www.jsconf.es) - Madrid
 - [Dev BCN](https://www.devbcn.com) - Barcelona
 - [NetCoreConf](https://netcoreconf.com/) - Barcelona i altres ciutats
+- [Developer Summit Barcelona](https://www.wolterskluwer.com/es-es/solutions/a3/developer-summit) - Barcelona
 
 ## Dades i Bussiness Platform
 
 - [Global PowerPlatform Bootcamp](https://powerplatformbcn.cat/Event) - Barcelona
 - [datadaX Summit](https://datadaxsummit.com) - Madrid
-- [CollabDay](https://www.collabdays.org/2025-madrid/) - Madrid
+- [CollabDay](https://dev.events/conferences/collab-days-madrid-2026-ftntyqgt) - Madrid
 
 ## Temàtiques diverses
 
 - [T3chFest](https://t3chfest.uc3m.es/) - Madrid
-- [CommitConf](https://2025.commit-conf.com) - Madrid
+- [CommitConf](https://commit-conf.com) - Madrid
 
 ## Conferències internacionals (online)
 

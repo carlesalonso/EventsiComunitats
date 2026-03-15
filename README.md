@@ -8,11 +8,8 @@ Aquí teniu disponible una relació de conferències tècniques i de grups de me
 
 ## Propers events destacats ![New](https://img.shields.io/badge/SOON-FCC624?style=for-the-badge&logo=SOON&logoColor=black)
 
-- Global PowerPlatform Bootcamp Barcelona: 21 de febrer
-- AgentCamp Madrid: 28 de febrer
-- T3chfest Madrid: 12 i 13 de març
-- JSConf Espanya: 14 de març
-- AgentCamp Barcelona: 14 de març
+- Developer Summit Barcelona: 10 d'abril
+- Global Azure Spain: 18 d'abril
 - Codemotion Madrid: 20-21 d'abril
 
 ## [Conferències](conferencies.md)
@@ -25,4 +22,4 @@ Selecció de grups temàtics a Meetup de la zona de Barcelona i rodalies que org
 
 Contacte: <carlos.martinez@mataro.epiaedu.cat>
 
-Darrera actualització: 24/01/2026
+Darrera actualització: 15/03/2026
