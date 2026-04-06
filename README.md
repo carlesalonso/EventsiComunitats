@@ -6,11 +6,12 @@ Relació events i comunitats informàtiques
 
 Aquí teniu disponible una relació de conferències tècniques i de grups de meetup que us poden ser d'interès. S'intentarà que la informació sigui el més actualitzada possible. Contacteu amb mi per si cal fer alguna rectificació o voleu proposar alguna entrada a les seccions.
 
-## Propers events destacats ![New](https://img.shields.io/badge/SOON-FCC624?style=for-the-badge&logo=SOON&logoColor=black)
+## Propers events destacats ![New](https://img.shields.io/badge/LASTCALL-FCC624?style=for-the-badge&logo=SLASTCALL&logoColor=black)
 
-- Developer Summit Barcelona: 10 d'abril
-- Global Azure Spain: 18 d'abril
-- Codemotion Madrid: 20-21 d'abril
+- Developer Summit Barcelona: 10 d'abril [link](https://www.wolterskluwer.com/es-es/solutions/a3/developer-summit)
+- Spring I/O Barcelona: 14-15 d'abril [link](https://2026.springio.net)
+- Global Azure Spain Madrid: 18 d'abril  [link](https://globalazure.es)
+- Codemotion Madrid: 20-21 d'abril       [link](https://conferences.codemotion.com/madrid/)
 
 ## [Conferències](conferencies.md)
 
@@ -22,4 +23,4 @@ Selecció de grups temàtics a Meetup de la zona de Barcelona i rodalies que org
 
 Contacte: <carlos.martinez@mataro.epiaedu.cat>
 
-Darrera actualització: 15/03/2026
+Darrera actualització: 06/04/2026
