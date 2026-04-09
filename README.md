@@ -10,6 +10,7 @@ Aquí teniu disponible una relació de conferències tècniques i de grups de me
 
 - Developer Summit Barcelona: 10 d'abril [link](https://www.wolterskluwer.com/es-es/solutions/a3/developer-summit)
 - Spring I/O Barcelona: 14-15 d'abril [link](https://2026.springio.net)
+- GitHub Copilot Day Madrid 17 d'abri: [link](https://githubcopilotdevdaysmadrid.techriders.es/)
 - Global Azure Spain Madrid: 18 d'abril  [link](https://globalazure.es)
 - Codemotion Madrid: 20-21 d'abril       [link](https://conferences.codemotion.com/madrid/)
 
@@ -23,4 +24,4 @@ Selecció de grups temàtics a Meetup de la zona de Barcelona i rodalies que org
 
 Contacte: <carlos.martinez@mataro.epiaedu.cat>
 
-Darrera actualització: 06/04/2026
+Darrera actualització: 09/04/2026
