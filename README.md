@@ -24,4 +24,4 @@ Selecció de grups temàtics a Meetup de la zona de Barcelona i rodalies que org
 
 Contacte: <carlos.martinez@mataro.epiaedu.cat>
 
-Darrera actualització: 09/04/2026
+Darrera actualització: 12/04/2026
