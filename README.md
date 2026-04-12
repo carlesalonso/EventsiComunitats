@@ -9,11 +9,7 @@ Aquí teniu disponible una relació de conferències tècniques i de grups de me
 ## Propers events destacats ![New](https://img.shields.io/badge/LASTCALL-FCC624?style=for-the-badge&logo=SLASTCALL&logoColor=black)
 
 - Spring I/O Barcelona: 14-15 d'abril [link](https://2026.springio.net)
-<<<<<<< HEAD
 - Gen AI Summit València: 17-18 d'abril [link](https://dev.events/conferences/gen-ai-summit-jstbust2026) 
-=======
-- GitHub Copilot Day Madrid 17 d'abri: [link](https://githubcopilotdevdaysmadrid.techriders.es/)
->>>>>>> a12a2e8d45085aa080748fd0818054a86cdbd11f
 - Global Azure Spain Madrid: 18 d'abril  [link](https://globalazure.es)
 - Codemotion Madrid: 20-21 d'abril       [link](https://conferences.codemotion.com/madrid/)
 - WordCamp Málaga: 25 d'abril [link](https://malaga.wordcamp.org/2026/)
