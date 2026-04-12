@@ -8,11 +8,11 @@ Aquí teniu disponible una relació de conferències tècniques i de grups de me
 
 ## Propers events destacats ![New](https://img.shields.io/badge/LASTCALL-FCC624?style=for-the-badge&logo=SLASTCALL&logoColor=black)
 
-- Spring I/O Barcelona: 14-15 d'abril [link](https://2026.springio.net)
-- Gen AI Summit València: 17-18 d'abril [link](https://dev.events/conferences/gen-ai-summit-jstbust2026) 
-- Global Azure Spain Madrid: 18 d'abril  [link](https://globalazure.es)
-- Codemotion Madrid: 20-21 d'abril       [link](https://conferences.codemotion.com/madrid/)
-- WordCamp Málaga: 25 d'abril [link](https://malaga.wordcamp.org/2026/)
+- [Spring I/O Barcelona: 14-15 d'abril](https://2026.springio.net)
+- [Gen AI Summit València: 17-18 d'abril](https://dev.events/conferences/gen-ai-summit-jstbust2026)
+- [Global Azure Spain Madrid: 18 d'abril](https://globalazure.es)
+- [Codemotion Madrid: 20-21 d'abril](https://conferences.codemotion.com/madrid/)
+- [WordCamp Málaga: 25 d'abril](https://malaga.wordcamp.org/2026/)
 
 ## [Conferències](conferencies.md)
 
