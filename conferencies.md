@@ -23,6 +23,7 @@ Aquí teniu un recopilatori d'algunes de les conferències i jornades més inter
 - [Dev BCN](https://www.devbcn.com) - Barcelona
 - [NetCoreConf](https://netcoreconf.com/) - Barcelona i altres ciutats
 - [Developer Summit Barcelona](https://www.wolterskluwer.com/es-es/solutions/a3/developer-summit) - Barcelona
+- [Spring I/O](https://2026.springio.net) - Barcelona
 
 ## Dades i Bussiness Platform
 
@@ -30,8 +31,15 @@ Aquí teniu un recopilatori d'algunes de les conferències i jornades més inter
 - [datadaX Summit](https://datadaxsummit.com) - Madrid
 - [CollabDay](https://dev.events/conferences/collab-days-madrid-2026-ftntyqgt) - Madrid
 
+## Intel·ligència Artificial
+
+- [Gen AI Summit València](https://dev.events/conferences/gen-ai-summit-jstbust2026) - València
+- [AI Summit Madrid](https:/aisummitmadrid.com) - Madrid
+- [AI Summit Barcelona](https://aisummitbarcelona.com) - Barcelona
+
 ## Temàtiques diverses
 
+- [Codemotion](https://conferences.codemotion.com/madrid) - Madrid
 - [T3chFest](https://t3chfest.uc3m.es/) - Madrid
 - [CommitConf](https://commit-conf.com) - Madrid
 
