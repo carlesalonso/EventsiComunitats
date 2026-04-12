@@ -43,6 +43,12 @@ Aquí teniu un recopilatori d'algunes de les conferències i jornades més inter
 - [T3chFest](https://t3chfest.uc3m.es/) - Madrid
 - [CommitConf](https://commit-conf.com) - Madrid
 
+## Màrqueting digital i e-commerce
+
+- [eShow](https://www.techshowmadrid.es/e-show) - Madrid
+- [DiGiMARCoN](https://digimarconspain.es) - Barcelona
+- [shopTalk Europe](https://europe.shoptalk.com/home) - Barcelona
+
 ## Conferències internacionals (online)
 
 - [Microsoft Ignite](https://myignite.microsoft.com/home) - Online
