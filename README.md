@@ -8,11 +8,9 @@ Aquí teniu disponible una relació de conferències tècniques i de grups de me
 
 ## Propers events destacats ![New](https://img.shields.io/badge/LASTCALL-FCC624?style=for-the-badge&logo=SLASTCALL&logoColor=black)
 
-- [Spring I/O Barcelona: 14-15 d'abril](https://2026.springio.net)
-- [Gen AI Summit València: 17-18 d'abril](https://dev.events/conferences/gen-ai-summit-jstbust2026)
-- [Global Azure Spain Madrid: 18 d'abril](https://globalazure.es)
-- [Codemotion Madrid: 20-21 d'abril](https://conferences.codemotion.com/madrid/)
-- [WordCamp Málaga: 25 d'abril](https://malaga.wordcamp.org/2026/)
+- [DevBCN: 16-17 de juny](https://www.devbcn.com/2026)
+- [4th Video Game Week: 10-14 de juny](https://www.cotxeres-casinet.cat/programacions-culturals/cultura-digital/)
+- [OLX Masterclass Product Design: 16 de juny](https://www.eventbrite.co.uk/e/entradas-olx-masterclass-product-design-1987311887352)
 
 ## [Conferències](conferencies.md)
 
@@ -24,4 +22,4 @@ Selecció de grups temàtics a Meetup de la zona de Barcelona i rodalies que org
 
 Contacte: <carlos.martinez@mataro.epiaedu.cat>
 
-Darrera actualització: 12/04/2026
+Darrera actualització: 05/06/2026
