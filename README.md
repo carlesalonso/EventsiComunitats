@@ -8,13 +8,14 @@ Aquí teniu disponible una relació de conferències tècniques i de grups de me
 
 ## Propers events destacats ![New](https://img.shields.io/badge/LASTCALL-FCC624?style=for-the-badge&logo=SLASTCALL&logoColor=black)
 
-- [DevBCN: 16-17 de juny](https://www.devbcn.com/2026)
-- [4th Video Game Week: 10-14 de juny](https://www.cotxeres-casinet.cat/programacions-culturals/cultura-digital/)
-- [OLX Masterclass Product Design: 16 de juny](https://www.eventbrite.co.uk/e/entradas-olx-masterclass-product-design-1987311887352)
+- [AI Summit BCN: 23-23 de setembre](https://aisummitbarcelona.com)
+- [Cloud AI Live- Barcelona 14 d'octubre](https://cloudonair.withgoogle.com/events/cloud-ai-live-barcelona)
+- [Tech Show - Madrid: 4-5 de novembre](https://www.techshowmadrid.es)
+- [a11yconf -Zaragoza 28 de novembre](https://2026.a11yconf.com/)
 
 ## [Conferències](conferencies.md)
 
-Conferències i jornades agrupades per temàtica. S'inclouen tant les que es fan a Barcelona com algunes de les destacades que es fan a Madrid.
+Conferències i jornades agrupades per temàtica. S'inclouen tant les que es fan a Barcelona com algunes de les destacades que es fan a Madrid o d'altres ciutats. També s'inclouen algunes conferències internacionals que es poden seguir online.
 
 ## [Grups meetup](meetup.md)
 
@@ -22,4 +23,4 @@ Selecció de grups temàtics a Meetup de la zona de Barcelona i rodalies que org
 
 Contacte: <carlos.martinez@mataro.epiaedu.cat>
 
-Darrera actualització: 05/06/2026
+Darrera actualització: 13/09/2026

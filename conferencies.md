@@ -12,9 +12,8 @@ Aquí teniu un recopilatori d'algunes de les conferències i jornades més inter
 ## Cloud: Azure, AWS, Google Cloud
 
 - [AWS Summit](https://aws.amazon.com/es/events/summits/madrid/) - Madrid
-- [Global Azure](https://globalazure.es/) - Madrid, Barcelona
-- [AgentCamp Madrid](https://globalai.community/agentcamp/madrid/) - Madrid
-- [AgentCamp Madrid](https://globalai.community/agentcamp/barcelona/) - Barcelona
+- [Global Azure](https://globalazure.es/) - Madrid i altres ciutats
+- [Google Cloud AI Live](https://cloudonair.withgoogle.com/events/cloud-ai-live-barcelona) - Barcelona
 
 ## Desenvolupament
 
@@ -34,14 +33,16 @@ Aquí teniu un recopilatori d'algunes de les conferències i jornades més inter
 ## Intel·ligència Artificial
 
 - [Gen AI Summit València](https://dev.events/conferences/gen-ai-summit-jstbust2026) - València
-- [AI Summit Madrid](https:/aisummitmadrid.com) - Madrid
 - [AI Summit Barcelona](https://aisummitbarcelona.com) - Barcelona
+- [AgentCamp Madrid](https://globalai.community/agentcamp/madrid/) - Madrid
+- [AgentCamp Madrid](https://globalai.community/agentcamp/barcelona/) - Barcelona
 
 ## Temàtiques diverses
 
 - [Codemotion](https://conferences.codemotion.com/madrid) - Madrid
 - [T3chFest](https://t3chfest.uc3m.es/) - Madrid
 - [CommitConf](https://commit-conf.com) - Madrid
+- [a11yconf (accessibilitat web)](https://2026.a11yconf.com/) - Zaragoza
 
 ## Màrqueting digital i e-commerce
 
@@ -51,6 +52,7 @@ Aquí teniu un recopilatori d'algunes de les conferències i jornades més inter
 
 ## Conferències internacionals (online)
 
+- [.NET Conf](https://dotnet.microsoft.com/es-es/conf) - Online
 - [Microsoft Ignite](https://myignite.microsoft.com/home) - Online
 - [Google I/O](https://events.google.com/io/) - Online
 - [AWS re:Invent](https://reinvent.awsevents.com/) - Online
