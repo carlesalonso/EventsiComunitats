@@ -13,10 +13,10 @@ Aquí trobareu diferents grups de meetup, bàsicament de Barcelona, però també
 
 - [Barcelona Java Users Group](https://www.meetup.com/barcelonajug)
 
-## JavaScript: JS, ReactJS...
+## JavaScript: JS, ReactJS, etc
 
 - [BarcelonaJS](https://www.meetup.com/barcelonajs)
-- [ReactJS Barcelona](https://www.meetup.com/reactjs-barcelona)- []()
+- [ReactJS Barcelona](https://www.meetup.com/reactjs-barcelona)
 - [VueJS BCN](https://www.meetup.com/VueJS-BCN)
 
 ## Low Code / No Code
@@ -34,7 +34,7 @@ Aquí trobareu diferents grups de meetup, bàsicament de Barcelona, però també
 - [PHP Barcelona](https://www.meetup.com/php-barcelona)
 - [Laravel Barcelona](https://www.meetup.com/meetup-group-wismkppp)
 
-## Desenvolupament Mòbil: Kotlin, Flutter...
+## Desenvolupament Mòbil: Kotlin, Flutter, etc
 
 - [FullStack Mobile: Laravel+Reat Native](https://www.meetup.com/react-native-laravel-construyamos-apps-juntos)
 - [Flutter](https://www.meetup.com/flutter-barcelona)
