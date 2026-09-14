@@ -4,7 +4,7 @@ Aquí teniu un recopilatori d'algunes de les conferències i jornades més inter
 
 ## Ciberseguretat
 
-- [RootedCON](https://www.rootedcon.com/) - Madrid
+- [RootedCON](https://www.rootedcon.com/) - Madrid, València, Màlaga
 - [MorterueloCON](https://morteruelocon.net/) - Cuenca
 - [Navaja Negra](https://www.navajanegra.com/) - Albacete
 - [NoConName](https://noconname.org/) - Barcelona

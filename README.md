@@ -8,6 +8,7 @@ Aquí teniu disponible una relació de conferències tècniques i de grups de me
 
 ## Propers events destacats ![New](https://img.shields.io/badge/LASTCALL-FCC624?style=for-the-badge&logo=SLASTCALL&logoColor=black)
 
+- [RootedCON València: 18 de setembre](https://www.rootedcon.com/)
 - [AI Summit BCN: 23-23 de setembre](https://aisummitbarcelona.com)
 - [Cloud AI Live- Barcelona 14 d'octubre](https://cloudonair.withgoogle.com/events/cloud-ai-live-barcelona)
 - [Tech Show - Madrid: 4-5 de novembre](https://www.techshowmadrid.es)
