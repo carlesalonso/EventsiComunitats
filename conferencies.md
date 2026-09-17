@@ -27,6 +27,7 @@ Aquí teniu un recopilatori d'algunes de les conferències i jornades més inter
 ## Dades i Bussiness Platform
 
 - [Global PowerPlatform Bootcamp](https://powerplatformbcn.cat/Event) - Barcelona
+- [BC Waves](https://www.bcwaves.com/) - Barcelona
 - [datadaX Summit](https://datadaxsummit.com) - Madrid
 - [CollabDay](https://dev.events/conferences/collab-days-madrid-2026-ftntyqgt) - Madrid
 
