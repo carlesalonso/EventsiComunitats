@@ -12,8 +12,6 @@ Aquí teniu disponible una relació de conferències tècniques i de grups de me
 - [AI Summit BCN: 22-23 de setembre](https://aisummitbarcelona.com)
 - [Cloud AI Live- Barcelona 14 d'octubre](https://cloudonair.withgoogle.com/events/cloud-ai-live-barcelona)
 - [Tech Show - Madrid: 4-5 de novembre](https://www.techshowmadrid.es)
-- [PyConES - Barcelona: 6-8 de novembre](https://2026.es.pycon.org)
-- [BCWaves - Barcelona: 14 de novembre]🛠️
 - [a11yconf -Zaragoza 28 de novembre](https://2026.a11yconf.com/)
 
 ## [Conferències](conferencies.md)
