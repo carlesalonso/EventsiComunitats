@@ -9,9 +9,11 @@ Aquí teniu disponible una relació de conferències tècniques i de grups de me
 ## Propers events destacats ![New](https://img.shields.io/badge/LASTCALL-FCC624?style=for-the-badge&logo=SLASTCALL&logoColor=black)
 
 - [RootedCON València: 18 de setembre](https://www.rootedcon.com/)
-- [AI Summit BCN: 23-23 de setembre](https://aisummitbarcelona.com)
+- [AI Summit BCN: 22-23 de setembre](https://aisummitbarcelona.com)
 - [Cloud AI Live- Barcelona 14 d'octubre](https://cloudonair.withgoogle.com/events/cloud-ai-live-barcelona)
 - [Tech Show - Madrid: 4-5 de novembre](https://www.techshowmadrid.es)
+- [PyConES - Barcelona: 6-8 de novembre](https://2026.es.pycon.org)
+- [BCWaves - Barcelona: 14 de novembre]🛠️
 - [a11yconf -Zaragoza 28 de novembre](https://2026.a11yconf.com/)
 
 ## [Conferències](conferencies.md)
@@ -24,4 +26,4 @@ Selecció de grups temàtics a Meetup de la zona de Barcelona i rodalies que org
 
 Contacte: <carlos.martinez@mataro.epiaedu.cat>
 
-Darrera actualització: 13/09/2026
+Darrera actualització: 19/09/2026

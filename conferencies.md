@@ -17,7 +17,8 @@ Aquí teniu un recopilatori d'algunes de les conferències i jornades més inter
 
 ## Desenvolupament
 
-- [Codemotion](https://conferences.codemotion.com/madrid) . Madrid
+- [PyConES](https://es.pycon.org) - Barcelona (pagament amb descompte per estudiants)
+- [Codemotion](https://conferences.codemotion.com/madrid) - Madrid
 - [JS Conf](https://www.jsconf.es) - Madrid
 - [Dev BCN](https://www.devbcn.com) - Barcelona
 - [NetCoreConf](https://netcoreconf.com/) - Barcelona i altres ciutats
@@ -29,6 +30,7 @@ Aquí teniu un recopilatori d'algunes de les conferències i jornades més inter
 - [Global PowerPlatform Bootcamp](https://powerplatformbcn.cat/Event) - Barcelona
 - [datadaX Summit](https://datadaxsummit.com) - Madrid
 - [CollabDay](https://dev.events/conferences/collab-days-madrid-2026-ftntyqgt) - Madrid
+- [BCWaves] - Barcelona
 
 ## Intel·ligència Artificial
 
