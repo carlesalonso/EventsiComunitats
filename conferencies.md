@@ -17,7 +17,8 @@ Aquí teniu un recopilatori d'algunes de les conferències i jornades més inter
 
 ## Desenvolupament
 
-- [PyConES](https://es.pycon.org) - Barcelona (pagament amb descompte per estudiants)
+- [PyConES](https://es.pycon.org) - Seu itinerant (pagament amb descompte per estudiants)
+- [PyDay BCN](https://pybcn.org) - Barcelona
 - [Codemotion](https://conferences.codemotion.com/madrid) - Madrid
 - [JS Conf](https://www.jsconf.es) - Madrid
 - [Dev BCN](https://www.devbcn.com) - Barcelona
@@ -46,6 +47,7 @@ Aquí teniu un recopilatori d'algunes de les conferències i jornades més inter
 - [T3chFest](https://t3chfest.uc3m.es/) - Madrid
 - [CommitConf](https://commit-conf.com) - Madrid
 - [a11yconf (accessibilitat web)](https://2026.a11yconf.com/) - Zaragoza
+- [LechazoConf](https://lechazoconf.com/) - Valladolid
 
 ## Màrqueting digital i e-commerce
 
