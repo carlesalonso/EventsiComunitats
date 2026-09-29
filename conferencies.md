@@ -40,7 +40,7 @@ Aquí teniu un recopilatori d'algunes de les conferències i jornades més inter
 - [Gen AI Summit València](https://dev.events/conferences/gen-ai-summit-jstbust2026) - València
 - [AI Summit Barcelona](https://aisummitbarcelona.com) - Barcelona
 - [AgentCamp Madrid](https://globalai.community/agentcamp/madrid/) - Madrid
-- [AgentCamp Madrid](https://globalai.community/agentcamp/barcelona/) - Barcelona
+- [AgentCamp Barcelona](https://globalai.community/agentcamp/barcelona/) - Barcelona
 
 ## Temàtiques diverses
 
