@@ -9,7 +9,7 @@ Aquí teniu disponible una relació de conferències tècniques i de grups de me
 ## Propers events destacats ![New](https://img.shields.io/badge/LASTCALL-FCC624?style=for-the-badge&logo=SLASTCALL&logoColor=black)
 
 - ~~[RootedCON València: 18 de setembre](https://www.rootedcon.com/)~~
-- [AI Summit BCN: (Google Developers Group) 22-23 de setembre](https://aisummitbarcelona.com)
+- ~~[AI Summit BCN: (Google Developers Group) 22-23 de setembre](https://aisummitbarcelona.com)~~
 - [Cloud AI Live- Barcelona 14 d'octubre](https://cloudonair.withgoogle.com/events/cloud-ai-live-barcelona)
 - [GitHub Universe - Online: 28-29 d'octubre](https://githubuniverse.com/) ![ONLINE](https://img.shields.io/badge/ONLINE-27ADF5?style=for-the-badge&logo=SLASTCALL&logoColor=black)
 - [Tech Show - Madrid: 4-5 de novembre](https://www.techshowmadrid.es)
@@ -25,8 +25,8 @@ Conferències i jornades agrupades per temàtica. S'inclouen tant les que es fan
 
 ## [Grups meetup](meetup.md)
 
-Selecció de grups temàtics a Meetup de la zona de Barcelona i rodalies que organitzen sessions i xerrades
+Selecció de grups temàtics a Meetup de la zona de Barcelona i rodalies que organitzen sessions i xerrades.
 
 Contacte: <carlos.martinez@mataro.epiaedu.cat>
 
-Darrera actualització: 20/09/2026
+Darrera actualització: 29/09/2026
