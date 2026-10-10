@@ -8,6 +8,7 @@ Aquí teniu un recopilatori d'algunes de les conferències i jornades més inter
 - [MorterueloCON](https://morteruelocon.net/) - Cuenca
 - [Navaja Negra](https://www.navajanegra.com/) - Albacete
 - [NoConName](https://noconname.org/) - Barcelona
+- [BSSIDES](https://bsides.barcelona) - Barcelona (de pagament: 27,41 €)
 
 ## Cloud: Azure, AWS, Google Cloud
 
