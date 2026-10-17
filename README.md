@@ -10,7 +10,7 @@ Aquí teniu disponible una relació de conferències tècniques i de grups de me
 
 - ~~[RootedCON València: 18 de setembre](https://www.rootedcon.com/)~~
 - ~~[AI Summit BCN: (Google Developers Group) 22-23 de setembre](https://aisummitbarcelona.com)~~
-- [Cloud AI Live- Barcelona 14 d'octubre](https://cloudonair.withgoogle.com/events/cloud-ai-live-barcelona)
+- ~~[Cloud AI Live- Barcelona 14 d'octubre](https://cloudonair.withgoogle.com/events/cloud-ai-live-barcelona)~~
 - [GitHub Universe - Online: 28-29 d'octubre](https://githubuniverse.com/) ![ONLINE](https://img.shields.io/badge/ONLINE-27ADF5?style=for-the-badge&logo=SLASTCALL&logoColor=black)
 - [BSSIDES Barcelona: 30 d'octubre](https://bsides.barcelona)
 - [Tech Show - Madrid: 4-5 de novembre](https://www.techshowmadrid.es)
