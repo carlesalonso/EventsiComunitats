@@ -9,15 +9,15 @@ Aquí trobareu diferents grups de meetup, bàsicament de Barcelona, però també
 - [Barcelona Cybersecurity](https://www.meetup.com/barcelona-cybersecurity)
 - [Hacking & Cybersecurity Barcelona](https://www.meetup.com/hackingcybersecurity)
 
-## Java, Kotlin
+## Cloud: Azure, AWS, Google Cloud
 
-- [Barcelona Java Users Group](https://www.meetup.com/barcelonajug)
+- [CATzure](https://www.meetup.com/catzure)
+- [Amazon Web Services Barcelona User Group](https://www.meetup.com/es-ES/barcelona-amazon-web-services-meetup/)
 
-## JavaScript: JS, ReactJS, etc
+## Eines Microsoft: (Power Platform, SharePoint, Business Central, etc)
 
-- [BarcelonaJS](https://www.meetup.com/barcelonajs)
-- [ReactJS Barcelona](https://www.meetup.com/reactjs-barcelona)
-- [VueJS BCN](https://www.meetup.com/VueJS-BCN)
+- [SUG.CAT - SharePoint User Group Catalunya](https://www.meetup.com/es-ES/sug-cat/)
+- [Power BI & Fabric Barcelona](https://www.meetup.com/es-es/power-bi-barcelona/)
 
 ## Low Code / No Code
 
@@ -28,11 +28,25 @@ Aquí trobareu diferents grups de meetup, bàsicament de Barcelona, però també
 
 - [NET Core BCN](https://www.meetup.com/netcorebcn)
 
+## Java, Kotlin
+
+- [Barcelona Java Users Group](https://www.meetup.com/barcelonajug)
+
+## JavaScript: JS, ReactJS, etc
+
+- [BarcelonaJS](https://www.meetup.com/barcelonajs)
+- [ReactJS Barcelona](https://www.meetup.com/reactjs-barcelona)
+- [VueJS BCN](https://www.meetup.com/VueJS-BCN)
+
 ## PHP
 
 - [PHP Talks](https://www.meetup.com/barcelona-php-talks)
 - [PHP Barcelona](https://www.meetup.com/php-barcelona)
 - [Laravel Barcelona](https://www.meetup.com/meetup-group-wismkppp)
+
+## Python
+
+- [Python Barcelona Meetup](https://www.meetup.com/es-ES/python-barcelona/)
 
 ## Desenvolupament Mòbil: Kotlin, Flutter, etc
 
