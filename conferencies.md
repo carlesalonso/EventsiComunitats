@@ -34,7 +34,6 @@ Aquí teniu un recopilatori d'algunes de les conferències i jornades més inter
 - [BC Waves](https://www.linkedin.com/company/bc-waves-bcn/) - Barcelona
 - [datadaX Summit](https://datadaxsummit.com) - Madrid
 - [CollabDay](https://dev.events/conferences/collab-days-madrid-2026-ftntyqgt) - Madrid
-- [BCWaves] - Barcelona
 
 ## Intel·ligència Artificial
 
