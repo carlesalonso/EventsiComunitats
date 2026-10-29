@@ -8,16 +8,13 @@ Aquí teniu disponible una relació de conferències tècniques i de grups de me
 
 ## Propers events destacats ![New](https://img.shields.io/badge/LASTCALL-FCC624?style=for-the-badge&logo=SLASTCALL&logoColor=black)
 
-- ~~[RootedCON València: 18 de setembre](https://www.rootedcon.com/)~~
-- ~~[AI Summit BCN: (Google Developers Group) 22-23 de setembre](https://aisummitbarcelona.com)~~
-- [Cloud AI Live- Barcelona 14 d'octubre](https://cloudonair.withgoogle.com/events/cloud-ai-live-barcelona)
-- [GitHub Universe - Online: 28-29 d'octubre](https://githubuniverse.com/) ![ONLINE](https://img.shields.io/badge/ONLINE-27ADF5?style=for-the-badge&logo=SLASTCALL&logoColor=black)
 - [Tech Show - Madrid: 4-5 de novembre](https://www.techshowmadrid.es)
 - [PyConES 2026- Barcelona: 6-8 de novembre](https://2026.es.pycon.org)
 - [.NET Conf - Online: 10-13 de novembre](https://dotnet.microsoft.com/es-es/conf) ![ONLINE](https://img.shields.io/badge/ONLINE-27ADF5?style=for-the-badge&logo=SLASTCALL&logoColor=black)
 - [BCWaves - Barcelona: 14 de novembre](https://www.linkedin.com/company/bc-waves-bcn/)
 - [a11yconf -Zaragoza 28 de novembre](https://2026.a11yconf.com/)
-- [DevFest Barcelona - 28 de novembre](https://gdg.community.dev/events/details/google-gdg-barcelona-presents-devfest-barcelona-2026-unete-a-la-revolucion-tecnologica/)
+- [DevFest Barcelona - 28 de novembre](https://gdg.barcelona/ca/)
+- [Net Core Conf - Barcelona: 12 de desembre](https://www.netcoreconf.com/)
 
 ## [Conferències](conferencies.md)
 
@@ -29,4 +26,4 @@ Selecció de grups temàtics a Meetup de la zona de Barcelona i rodalies que org
 
 Contacte: <carlos.martinez@mataro.epiaedu.cat>
 
-Darrera actualització: 29/09/2026
+Darrera actualització: 28/10/2026

@@ -22,7 +22,7 @@ Aquí teniu un recopilatori d'algunes de les conferències i jornades més inter
 - [Codemotion](https://conferences.codemotion.com/madrid) - Madrid
 - [JS Conf](https://www.jsconf.es) - Madrid
 - [Dev BCN](https://www.devbcn.com) - Barcelona
-- [NetCoreConf](https://netcoreconf.com/) - Barcelona i altres ciutats
+- [NetCoreConf](https://www.netcoreconf.com/) - Barcelona i altres ciutats
 - [Developer Summit Barcelona](https://www.wolterskluwer.com/es-es/solutions/a3/developer-summit) - Barcelona
 - [Spring I/O](https://2026.springio.net) - Barcelona
 - [DevFest (Google Developers Group)](https://gdg.community.dev/events/#/list) - Barcelona i altres ciutats
