@@ -8,9 +8,8 @@ Aquí teniu disponible una relació de conferències tècniques i de grups de me
 
 ## Propers events destacats ![New](https://img.shields.io/badge/LASTCALL-FCC624?style=for-the-badge&logo=SLASTCALL&logoColor=black)
 
-- [Tech Show - Madrid: 4-5 de novembre](https://www.techshowmadrid.es)
-- [PyConES 2026- Barcelona: 6-8 de novembre](https://2026.es.pycon.org)
 - [.NET Conf - Online: 10-13 de novembre](https://dotnet.microsoft.com/es-es/conf) ![ONLINE](https://img.shields.io/badge/ONLINE-27ADF5?style=for-the-badge&logo=SLASTCALL&logoColor=black)
+- [AI Virtual Days - Online: 13-14 de novembre](https://www.eventbrite.es/e/entradas-ai-virtual-days-2026-2001083241844) ![ONLINE](https://img.shields.io/badge/ONLINE-27ADF5?style=for-the-badge&logo=SLASTCALL&logoColor=black)
 - [BCWaves - Barcelona: 14 de novembre](https://www.linkedin.com/company/bc-waves-bcn/)
 - [a11yconf -Zaragoza 28 de novembre](https://2026.a11yconf.com/)
 - [DevFest Barcelona - 28 de novembre](https://gdg.barcelona/ca/)
@@ -26,4 +25,4 @@ Selecció de grups temàtics a Meetup de la zona de Barcelona i rodalies que org
 
 Contacte: <carlos.martinez@mataro.epiaedu.cat>
 
-Darrera actualització: 28/10/2026
+Darrera actualització: 09/11/2026
