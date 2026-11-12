@@ -54,11 +54,6 @@ Aquí trobareu diferents grups de meetup, bàsicament de Barcelona, però també
 - [Flutter](https://www.meetup.com/flutter-barcelona)
 - [Google Developer Group BCN](https://www.meetup.com/GDG-Barcelona)
   
-## UX/UI: Figma
-
-- [Figma BCN](https://www.meetup.com/Figma-Barcelona)
-- [Barcelona - Tech & UX Design community](https://www.meetup.com/tech-barcelona)
-
 ## WordPress
 
 - [WordPress Mataró](https://www.meetup.com/es-ES/wordpress-mataro/)
